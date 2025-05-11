@@ -1,6 +1,6 @@
 # Project 2: Intra-Domain Routing Algorithms
 
-## Group member:
+## Group member
 * Lê Đình Huy - 21020914 
 * Đinh Việt Hoàng - 21020434
 
