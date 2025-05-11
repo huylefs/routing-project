@@ -1,5 +1,11 @@
 # Project 2: Intra-Domain Routing Algorithms
 
+# Group member:
+* Lê Đình Huy - 21020914 
+* Đinh Việt Hoàng - 21020434
+
+
+
 ## Objective
 
 * Implement distance-vector or link-state routing algorithms
